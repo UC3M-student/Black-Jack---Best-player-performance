@@ -338,7 +338,7 @@ player_winrate = sum(player_winrate)
 print(" The winner rate is: ", player_winrate/100000, "%" )
 
 
-#El jugador juega como el dealer;WINRATE = 38.5 % (7 o mas) ;WINRATE = 38,6 % (8 o mas); 
+#WINRATE = 38.5 % (7 o mas) ;WINRATE = 38,6 % (8 o mas); 
 # WINRATE = 38.85 % (9 o mas); WINRATE = 39,5 % (10 o mas) ;WINRATE = 40,5 % (11 o mas) ; 
 # WINRATE = 42,2 % (12 o mas); WINRATE = 42.44 % (13 o mas) ;WINRATE = 42,417 % (14 o mas); 
 # WINRATE = 42,1 % (15 o mas) ;WINRATE = 41,5 % (16 o mas) ; WINRATE = 40,7 % (17 o mas) ;
